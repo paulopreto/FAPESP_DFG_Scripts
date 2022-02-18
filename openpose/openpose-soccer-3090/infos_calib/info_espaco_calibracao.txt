@@ -1,0 +1,6 @@
+# informacao do espaco de calibracao
+
+bastao = 2.32 m de comprimento com divisoes de 20 em 20 cm
+base preta do meio do bastao ate o final (marca verde) = 92 cm
+retangulo chao = 2.5 X 0.84 m
+
